@@ -17,3 +17,6 @@ config/private.yml
 dev_releases
 releases/*.tgz
 src_alt
+
+jobs/cloud_controller_ng-*
+packages/cloud_controller_ng-*
