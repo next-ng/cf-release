@@ -22,9 +22,6 @@
 [submodule "src/cloud_controller"]
   path = src/cloud_controller
   url = https://github.com/cloudfoundry/cloud_controller.git
-[submodule "src/cloud_controller_ng"]
-  path = src/cloud_controller_ng
-  url = https://github.com/cloudfoundry/cloud_controller_ng.git
 [submodule "src/logplex"]
   path = src/logplex
   url = https://github.com/cloudfoundry/logplex.git
@@ -103,3 +100,6 @@
 [submodule "src/login"]
 	path = src/login
 	url = https://github.com/cloudfoundry/login-server.git
+[submodule "src/cloud_controller_ng"]
+	path = src/cloud_controller_ng
+	url = https://github.com/next-ng/cloud_controller_ng.git
