@@ -22,9 +22,6 @@
 [submodule "src/cloud_controller"]
   path = src/cloud_controller
   url = https://github.com/cloudfoundry/cloud_controller.git
-[submodule "src/cloud_controller_ng"]
-  path = src/cloud_controller_ng
-  url = https://github.com/cloudfoundry/cloud_controller_ng.git
 [submodule "src/tests"]
   path = src/tests
   url = https://github.com/cloudfoundry/vcap-yeti.git
@@ -94,3 +91,6 @@
 [submodule "src/loggregator"]
 	path = src/loggregator
 	url = https://github.com/cloudfoundry/loggregator
+[submodule "src/cloud_controller_ng"]
+	path = src/cloud_controller_ng
+	url = https://github.com/next-ng/cloud_controller_ng.git
