@@ -18,5 +18,10 @@ dev_releases
 releases/*.tgz
 src_alt
 
-jobs/cloud_controller_ng-*
-packages/cloud_controller_ng-*
+jobs/cloud_controller_ng*
+packages/cloud_controller_ng*
+packages/libpq
+packages/libyaml
+packages/mysqlclient
+packages/ruby
+packages/sqlite
